@@ -12,7 +12,7 @@ def frame_resize(reference , width , height):
 # Main camera function
 def start_cam():
     # Resize the frame
-    frame_resize(frame, 640, 320)
+    frame_resize(frame, 160,120)
     # Correct distortion
     camera_matrix = np.load('camera_matrix.npy')
     dist_coeffs = np.load('dist_coeffs.npy')

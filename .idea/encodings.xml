@@ -2,5 +2,7 @@
 <project version="4">
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/camera_matrix.npy" charset="US-ASCII" />
+    <file url="file://$PROJECT_DIR$/큐브 모델링/ArUco코드 해석 및 3D 모델ㄹ이/camera_matrix.npy" charset="US-ASCII" />
+    <file url="file://$PROJECT_DIR$/큐브 모델링/큐브 사진/camera_matrix.npy" charset="US-ASCII" />
   </component>
 </project>
